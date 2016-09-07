@@ -1,7 +1,5 @@
 package fl.tools;
 
-import fl.tools.FileRenameMainWnd;
-
 public class FileRename {
 
 	protected static FileRenameMainWnd mainWnd = new FileRenameMainWnd();
