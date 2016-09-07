@@ -8,6 +8,7 @@ Mass rename of files within a directory, used mainly to rename pictures and movi
 ## Require
 
 run under windows with java library swt for windows (not tested under unix)
+configured for java 1.8 64bits
 
 ## how to
 
